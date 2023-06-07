@@ -37,3 +37,68 @@
 // let status = "Softwear Enginer";
 
 // console.log(`${name} is a ${2023 - year} year old ${status}`);
+
+// number
+
+// console.log(123);
+// console.log(1.23);
+
+// string
+
+// '' ; " " ; ``
+
+// console.log("Welcome to \"webbrain\"");
+
+// console.log('Welcome to\n "webbrian"');
+
+// console.log(`Welcome to
+//  'Webbrain'`);
+// let a = "It center"
+// console.log(`Welcome to Webbrain` + a );
+// console.log(`Welcome to Webbrain ${a}`);
+
+// bigint
+
+// console.log(9007199254740992);
+// console.log(9007199254740992n + 1n);
+
+// Boolean
+
+// console.log(true);
+// console.log(false);
+
+// null // undefined
+
+// let a;
+// let b = null;
+// console.log(a + 1);
+// console.log(b + 1);
+
+// let a ;
+// console.log(a);
+
+// symbol
+
+// let a = Symbol("text");
+// let b = Symbol("text");
+
+// console.log(a, b);
+// console.log(a == b);
+
+
+// non - primitive
+
+// object
+
+// array , function , obj
+
+// let ar = ["Muhammad",22,"webbrain"]
+// let obj = {name:"Aziz",status:"frontend"}
+// function test (){
+    
+//     console.log(ar[1]);
+//     console.log(obj.status);
+
+// }
+
+// test()
