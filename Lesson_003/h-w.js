@@ -37,3 +37,18 @@
 // console.log(undefined === null); // false
 // console.log("null" == "\n0\n"); // false
 // console.log(null === +"n\0\n"); // false
+
+//======================
+
+// let message;
+// let login = "";
+// login == "Employee"
+//   ? (message = "Hello")
+//   : login == "Director"
+//   ? (message = "Greetings")
+//   : login == ""
+//   ? (message = "No login")
+//   : (message = "");
+//   console.log(message);
+
+//======================
