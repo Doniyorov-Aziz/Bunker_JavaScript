@@ -87,3 +87,18 @@
 //   res *= i;
 // }
 // console.log(res);
+
+//==================================
+
+// n berilgan k ni topish kerak
+// 1 + 2 + 3 + ...... + k = n
+
+// let n = 100;
+// let sum = 0;
+// let i = 1;
+// while (sum <= n) {
+//   sum += i;
+//   i++;
+// }
+// let res = i - 2;
+// console.log(res);
